@@ -1,5 +1,7 @@
 # llama-rmt-test
-Just checking this for one sec https://arxiv.org/pdf/2304.11062.pdf
+This is completely unoptimized, likely not even working code of https://arxiv.org/pdf/2304.11062.pdf
+just did it to play around
+it does spit out actual content though
 
 > This technical report presents the application of a recurrent memory to extend the
 context length of BERT, one of the most effective Transformer-based models in
